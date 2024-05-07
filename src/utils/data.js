@@ -1,0 +1,50 @@
+const burgers = [{
+  id: 1,
+  name: "classic curger",
+  ingredients: "Beef patty, lettuce, tomato, onion, pickles, and cheddar cheese",
+  price: 8,
+  photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+  soldOut: false,
+},
+{
+  id: 2,
+  name: "cheeseburger",
+  ingredients: "Beef patty, lettuce, tomato, onion, pickles, cheddar cheese, and mayo",
+  price: 9,
+  photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+  soldOut: false,
+},
+{
+  id: 3,
+  name: "bacon burger",
+  ingredients: "Beef patty, lettuce, tomato, onion, bacon, cheddar cheese, and BBQ sauce",
+  price: 10,
+  photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+  soldOut: false,
+},
+{
+  id: 4,
+  name: "mushroom swiss burger",
+  ingredients: "Beef patty, sautéed mushrooms, swiss cheese, lettuce, tomato, and mayo",
+  price: 11,
+  photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+  soldOut: false,
+},
+{
+  id: 5,
+  name: "spicy chicken burger",
+  ingredients: "Grilled chicken breast, lettuce, tomato, onion, jalapeños, pepper jack cheese, and spicy mayo",
+  price: 12,
+  photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+  soldOut: true,
+},
+{
+  id: 6,
+  name: "veggie burger",
+  ingredients: "Grilled vegetable patty, lettuce, tomato, onion, avocado, and provolone cheese",
+  price: 10,
+  photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+  soldOut: false,
+},]
+
+module.exports = burgers 
