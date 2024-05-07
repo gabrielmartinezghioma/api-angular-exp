@@ -4,7 +4,7 @@ const burgers = [
     name: "classic burger",
     ingredients: "Beef patty, lettuce, tomato, onion, pickles, and cheddar cheese",
     price: 12.99,
-    photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+    photoName: "https://mymarios.com/pystedod/2020/04/Classic-Burger-MARIOSBurgers-MJ6280-25.7.2020-online-510x340.png",
     soldOut: false,
   },
   {
@@ -12,7 +12,7 @@ const burgers = [
     name: "cheeseburger",
     ingredients: "Beef patty, lettuce, tomato, onion, pickles, cheddar cheese, and mayo",
     price: 13.49,
-    photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+    photoName: "https://mymarios.com/pystedod/2020/04/Bacon-n-Cheese-Burger-MARIOSBurgers-MJ6372-edited-24.7.2020-online-247x296.png",
     soldOut: false,
   },
   {
@@ -20,7 +20,7 @@ const burgers = [
     name: "bacon burger",
     ingredients: "Beef patty, lettuce, tomato, onion, bacon, cheddar cheese, and BBQ sauce",
     price: 11.79,
-    photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+    photoName: "https://mymarios.com/pystedod/2020/04/Bacon-n-Cheese-Burger-MARIOSBurgers-MJ6372-edited-24.7.2020-online-247x296.png",
     soldOut: false,
   },
   {
@@ -28,7 +28,7 @@ const burgers = [
     name: "mushroom swiss burger",
     ingredients: "Beef patty, sautéed mushrooms, swiss cheese, lettuce, tomato, and mayo",
     price: 12.25,
-    photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+    photoName: "https://ohthatsgood.com/wp-content/uploads/2013/06/Swiss-Mushroom-Burger.jpg",
     soldOut: false,
   },
   {
@@ -36,7 +36,7 @@ const burgers = [
     name: "spicy chicken burger",
     ingredients: "Grilled chicken breast, lettuce, tomato, onion, jalapeños, pepper jack cheese, and spicy mayo",
     price: 14.99,
-    photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+    photoName: "https://www.thespruceeats.com/thmb/0owAU6guBi5_VR9Zttiqw7L6iCE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spicy-fried-chicken-sandwich-5220981-hero-01-f742363e943f4fc1aff902da3342765a.jpg",
     soldOut: false,
   },
   {
@@ -44,7 +44,7 @@ const burgers = [
     name: "veggie burger",
     ingredients: "Grilled vegetable patty, lettuce, tomato, onion, avocado, and provolone cheese",
     price: 12.75,
-    photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+    photoName: "https://www.thespruceeats.com/thmb/zB8GDyCyyY_fKE9cEfD5NGwe48g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vegan-tofu-veggie-burgers-recipe-3377169-hero-01-a2dd40a53b1c4d3ba21625925cc9e28b.jpg",
     soldOut: false,
   },
   {
@@ -52,15 +52,15 @@ const burgers = [
     name: "double cheeseburger",
     ingredients: "Two beef patties, lettuce, tomato, onion, pickles, cheddar cheese, and mayo",
     price: 13.99,
-    photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
-    soldOut: false,
+    photoName: "https://recipes.net/wp-content/uploads/2023/05/hardees-double-cheeseburger-recipe_d48b79ef43b714e98a3ad95a7ab9e12e.jpeg",
+    soldOut: true,
   },
   {
     id: 8,
     name: "western burger",
     ingredients: "Beef patty, lettuce, tomato, onion rings, bacon, cheddar cheese, and BBQ sauce",
     price: 12.50,
-    photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+    photoName: "https://theflattopking.com/wp-content/uploads/2023/03/western-burger-griddle.jpg",
     soldOut: false,
   },
   {
@@ -76,7 +76,7 @@ const burgers = [
     name: "teriyaki burger",
     ingredients: "Beef patty, lettuce, tomato, grilled pineapple, teriyaki sauce, swiss cheese, and mayo",
     price: 12.35,
-    photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+    photoName: "https://therecipecritic.com/wp-content/uploads/2022/06/TeriyakiBurgers-750x1000.jpg",
     soldOut: false,
   },
   {
@@ -84,15 +84,15 @@ const burgers = [
     name: "guacamole burger",
     ingredients: "Beef patty, lettuce, tomato, guacamole, bacon, pepper jack cheese, and chipotle mayo",
     price: 12.70,
-    photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
-    soldOut: false,
+    photoName: "https://www.twopeasandtheirpod.com/wp-content/uploads/2020/06/Guacamole-Bacon-Burgers-3-650x433.jpg",
+    soldOut: true,
   },
   {
     id: 12,
     name: "black bean burger",
     ingredients: "Black bean patty, lettuce, tomato, onion, roasted red pepper, avocado, and pepper jack cheese",
     price: 12.80,
-    photoName: "https://www.unileverfoodsolutions.com.co/dam/global-ufs/mcos/NOLA/calcmenu/recipes/col-recipies/fruco-tomate-cocineros/HAMBURGUESA%201200x709.png",
+    photoName: "https://sallysbakingaddiction.com/wp-content/uploads/2018/07/best-black-bean-burgers-2.jpg",
     soldOut: false,
   },
 ];
